@@ -1,4 +1,9 @@
-## Hi there 👋
+👨‍💻 Welcome to my GitHub
+##Hi there! I’m Izan, a Computer Engineering student of fourth year. I’m passionate about technology, software development, and how we can leverage computing to solve real-world problems. This repository showcases some of the projects I've worked during my academic journey.
+
+
+
+
 
 <!--
 **izanJG/IzanJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
