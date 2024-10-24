@@ -1,5 +1,9 @@
-👨‍💻 Welcome to my GitHub
-##Hi there! I’m Izan, a Computer Engineering student of fourth year. I’m passionate about technology, software development, and how we can leverage computing to solve real-world problems. This repository showcases some of the projects I've worked during my academic journey.
+# 👨‍💻 Welcome to my GitHub
+<div align="justify">
+<h3>
+Hi there! I’m Izan, a Computer Engineering student of fourth year. I’m passionate about technology, software development, and how we can leverage computing to solve real-world problems. This repository showcases some of the projects I've worked during my academic journey.
+</h3>
+</div>
 
 
 
